@@ -1,0 +1,5 @@
+# Arquivos e diretórios específicos para Python
+*.pyc
+*.pyo
+__pycache__/
+nome_do_ambiente/
